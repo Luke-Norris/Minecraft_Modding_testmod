@@ -1,0 +1,1 @@
+Build a .jar executable with "./gradlew build" to get the mod .jar sent to wherever you want.
